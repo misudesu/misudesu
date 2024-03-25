@@ -5,7 +5,6 @@
 Here are some ideas to get you started:
 -->
 - <!--Banner-->
-![misudesu Banner Image](./banner.png)
 
 <!--Night Owl image-->
 <div>
@@ -14,12 +13,12 @@ Here are some ideas to get you started:
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ misu! 
-*Fullstack developer*
+*Full stack developer*
 <br /> 
 
 <!--Start Intro-->               
 <p align="left">I am a Full Stack Developer and a huge love for Python, React.js, Django, REST API and Javascript. </p>
--🔭 I’m currently working on a Next.js Projects
+<p>-🔭 I’m currently working on a Next.js Projects</p>
 - 🌱 I’m currently learning Django
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about React, Next.js, REST API
@@ -37,7 +36,7 @@ Here are some ideas to get you started:
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,express,django,mongo,taliwnd,docker,postman,next,redux,ts"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,express,django,mongo,docker,postman,next,redux,ts"  />
 </p>
 <br />
 
