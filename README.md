@@ -4,7 +4,6 @@
 
 Here are some ideas to get you started:
 -->
-- <!--Banner-->
 
 <!--Night Owl image-->
 <div>
@@ -19,10 +18,10 @@ Here are some ideas to get you started:
 <!--Start Intro-->               
 <p align="left">I am a Full Stack Developer and a huge love for Python, React.js, Django, REST API and Javascript. </p>
 <p>-🔭 I’m currently working on a Next.js Projects</p>
-- 🌱 I’m currently learning Django
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about React, Next.js, REST API
-- 📫 How to reach me ...
+<p>- 🌱 I’m currently learning Django </p>
+<p>- 👯 I’m looking to collaborate on ... </p>
+<p>- 💬 Ask me about React, Next.js, REST API </p>
+<p>- 📫 How to reach me ... </p>
 <!--End Intro-->
 
 <!--Profile Count Badge-->
