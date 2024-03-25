@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
+<p align="left">I am a Full Stack Developer and a huge love for Python, React.js, Django, REST API and Javascript. </p>
+<br/>
 -🔭 I’m currently working on a Next.js Projects
 - 🌱 I’m currently learning Django
 - 👯 I’m looking to collaborate on ...
