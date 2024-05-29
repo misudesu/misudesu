@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <!--   <img src="https://komarev.com/ghpvc/?username=misudesu&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="misudesu" style="padding-right:20px;" /> -->
 <!-- </p> -->
 
----
+<!---
 <br />
 
 <!--Languages and Tools Section-->       
