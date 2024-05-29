@@ -10,11 +10,10 @@ Here are some ideas to get you started:
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
-<!--Header Name
+<!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ misu! 
 *Full stack developer*
 <br /> 
---->
 <!--Start Intro-->               
 <p align="left">I am a Full Stack Developer and a huge love for Python, React.js, Django, REST API and Javascript. </p>
 <p>-🔭 I’m currently working on a Next.js Projects</p>
@@ -51,7 +50,7 @@ Here are some ideas to get you started:
 </p>
 <br />
 -->
-<!--Footer--> 
+<!--Footer--
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
