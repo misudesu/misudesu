@@ -1,62 +1,20 @@
-# Hi, I'm Misael 👋
+👋 Hi, I'm Misael — AI Automation Engineer & Full-Stack Developer
 
-🚀 Full-Stack Developer & AI Automation Engineer building real-world AI products.
+🚀 I build AI systems that automate workflows, generate content, and scale businesses.
 
-Based in Addis Ababa, Ethiopia 🇪🇹
+🔹 4+ years experience
+🔹 Built AI pipelines (RAG, agents, scraping)
+🔹 Increased revenue 100% for international client
 
----
+Tech Stack:
+- Backend: Node.js, FastAPI
+- Frontend: Next.js, React
+- AI: LangChain, RAG, LLM Agents
+- DevOps: Docker, Nginx , AWS 
 
-## 🧠 What I’m building
+🔥 Featured Projects:
+👉 Omnisu – AI video transcription + content generator
+👉 AI Scraper Agent – Extracts structured data from 100+ sites
+👉 AI Persona System – Multi-agent memory + behavior system
 
-- 🎬 **Omnisu** – AI-powered transcription & content automation platform  
-- 🤖 AI Agents – RAG-based systems using LangChain & LlamaIndex  
-- 📊 Automation Systems – Data scraping, workflows, and integrations  
-- 🎥 Video AI Tools – Caption generation, script generation, content pipelines  
-
----
-
-## ⚡ Tech Stack
-
-**Frontend**
-- Next.js, React, TypeScript
-
-**Backend**
-- Node.js (NestJS), Python (FastAPI)
-
-**AI / Automation**
-- LangChain, LlamaIndex, RAG
-- Prompt Engineering
-- n8n, Zapier
-
-**Infrastructure**
-- PostgreSQL, Docker, Nginx ,AWS
-- Vector DBs (Pinecone, ChromaDB)
-
----
-
-## 🌍 Focus
-
-I’m focused on:
-- AI-powered products
-- Automation at scale
-- Multilingual AI 
----
-
-## 📈 Selected Work
-
-- 🔗 https://omnisu.app  
-- 🔗 https://myfellow.et  
-- 🔗 https://give.dsethiopia.org  
-
----
-
-## 🎯 Current Goal
-
-Building scalable AI systems that reduce manual work and enable creators globally.
-
----
-
-## 📫 Connect with me
-
-- LinkedIn: https://linkedin.com/in/misael-dessalegn  
-- Email: misaeldessalegn@gmail.com
+📫 Contact: misaeldessalegn@gmail.com | LinkedIn https://www.linkedin.com/in/misael-dessalegn
