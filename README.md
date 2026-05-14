@@ -17,4 +17,4 @@ Tech Stack:
 👉 AI Scraper Agent – Extracts structured data from 100+ sites
 👉 AI Persona System – Multi-agent memory + behavior system
 
-📫 Contact: misaeldessalegn@gmail.com | LinkedIn https://www.linkedin.com/in/misael-dessalegn
+📫 Contact: misaeldessalegn@gmail.com | LinkedIn https://www.linkedin.com/in/misael-dessalegn  | https://misaeldessalegn.vercel.app
