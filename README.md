@@ -2,19 +2,9 @@
 
 🚀 I build AI systems that automate workflows, generate content, and scale businesses.
 
-🔹 4+ years experience
-🔹 Built AI pipelines (RAG, agents, scraping)
-🔹 Increased revenue 100% for international client
-
+🔹 3+ years experience
+🔹 Built AI pipelines (RAG, agents)
 Tech Stack:
-- Backend: Node.js, FastAPI
-- Frontend: Next.js, React
-- AI: LangChain, RAG, LLM Agents
-- DevOps: Docker, Nginx , AWS 
-
-🔥 Featured Projects:
-👉 Omnisu – AI video transcription + content generator
-👉 AI Scraper Agent – Extracts structured data from 100+ sites
-👉 AI Persona System – Multi-agent memory + behavior system
-
+- Backend: Node.js | Nest.js, FastAPI
+- Frontend: Next.js
 📫 Contact: misaeldessalegn@gmail.com | LinkedIn https://www.linkedin.com/in/misael-dessalegn  | Website https://misaeldessalegn.vercel.app
