@@ -1,4 +1,4 @@
-👋 Hi, I'm Misael — AI Automation Engineer & Full-Stack Developer
+👋 Hi, I'm Misael — AI Engineer & Full-Stack Developer
 
 🚀 I build AI systems that automate workflows, generate content, and scale businesses.
 
