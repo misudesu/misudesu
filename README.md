@@ -2,9 +2,9 @@
 
 🚀 I build AI systems that automate workflows, generate content, and scale businesses.
 
-🔹 3+ years experience
+🔹 4+ years experience
 🔹 Built AI pipelines (RAG, agents)
 Tech Stack:
 - Backend: Node.js | Nest.js, FastAPI
 - Frontend: Next.js
-📫 Contact: misaeldessalegn@gmail.com | LinkedIn https://www.linkedin.com/in/misael-dessalegn  | Website https://misaeldessalegn.vercel.app
+📫 Contact: misaeldessalegn@gmail.com | LinkedIn https://www.linkedin.com/in/misael-dessalegn 
